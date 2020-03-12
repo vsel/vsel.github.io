@@ -1,38 +1,38 @@
 exclude: ['README.md', 'preview.sh', 'Gemfile', 'Gemfile.lock']
 
 # Used to generate the site
-title: "Example Pod"
-title_short: "Example Pod"
-email: "your-email@example.com"
-description: "Brief description of your podcast"
+title: "WatEvoCast Official Site"
+title_short: "WatEvoCast"
+email: "v.selyuh@evo.company"
+description: "WatEvoCast about EVO Development and Developers"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
-itunes_url: "https://itunes.apple.com/us/podcast/xxx"
+url: "https://vsel.github.io" # the base hostname & protocol for your site
+itunes_url: "https://podcasts.apple.com/ua/podcast/watevocast/id1496597100"
 
 # itunes_id creates a smart banner on Safari in iOS prompting
 # visitors to subscribe
 # Uncomment next line to enable
-#itunes_id: xxx # The ID is after the last slash in itunes_url above minus the letters "id"
-twitter_username: yourtwitter
-twitter_podcastname: yourpodcasttwitter
+itunes_id: 1496597100 # The ID is after the last slash in itunes_url above minus the letters "id"
+#twitter_username: yourtwitter
+#twitter_podcastname: yourpodcasttwitter
 
 # For the SEO tag
 seo:
-  name: "Example Pod"
-  type: "CreativeWork"
-  about: "Brief description of your podcast."
-  person: "Your Name"
+  name: "WatEvoCast"
+  type: "Technical"
+  about: "WatEvoCast about EVO Development and Developers"
+  person: "Larin Selyukh"
 
 # Used to generate the iTunes-compatible RSS feed
-podcast:
-  owner:
-    name: Your Name
-    email: your-podcast-email@example.com
-  explicit: "no" # Change to yes if you're a potty mouth
-  image: /img/generic-2000.png # iTunes requires 2,000 pixel art
-  keywords: "news"
-  categories:
-    - category: "Find categories on iTunes"
+#podcast:
+#  owner:
+#    name: Your Name
+#    email: your-podcast-email@example.com
+#  explicit: "no" # Change to yes if you're a potty mouth
+#  image: /img/generic-2000.png # iTunes requires 2,000 pixel art
+#  keywords: "news"
+#  categories:
+#    - category: "Find categories on iTunes"
 
 # Build settings
 markdown: kramdown
