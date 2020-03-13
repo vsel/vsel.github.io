@@ -24,15 +24,15 @@ seo:
   person: "Larin Selyukh"
 
 # Used to generate the iTunes-compatible RSS feed
-#podcast:
-#  owner:
-#    name: Your Name
-#    email: your-podcast-email@example.com
-#  explicit: "no" # Change to yes if you're a potty mouth
-#  image: /img/generic-2000.png # iTunes requires 2,000 pixel art
-#  keywords: "news"
-#  categories:
-#    - category: "Find categories on iTunes"
+podcast:
+  owner:
+    name: EVO
+    email: watevocast@evo.company
+  explicit: "no"
+  image: /img/logo.png
+  keywords: "evo, python, highload, javascript"
+  categories:
+    - category: "Technology"
 
 # Build settings
 markdown: kramdown
