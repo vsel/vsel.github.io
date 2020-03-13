@@ -29,7 +29,7 @@ podcast:
     name: EVO
     email: watevocast@evo.company
   explicit: "no"
-  image: /img/logo.png
+  image: /img/logo.jpg
   keywords: "evo, python, highload, javascript"
   categories:
     - category: "Technology"
