@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Information about your podcast goes here.
+Volodymyr and Boryslav talks in EVO
