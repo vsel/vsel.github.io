@@ -6,7 +6,7 @@ title_short: "WatEvoCast"
 email: "v.selyuh@evo.company"
 description: "WatEvoCast about EVO Development and Developers"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://vsel.github.io" # the base hostname & protocol for your site
+url: "http://podcast.evo.run" # the base hostname & protocol for your site
 itunes_url: "https://podcasts.apple.com/ua/podcast/watevocast/id1496597100"
 
 # itunes_id creates a smart banner on Safari in iOS prompting
