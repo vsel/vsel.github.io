@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Volodymyr and Boryslav talks in EVO
+Volodymyr Selyukh and Boryslav Larin talks in EVO
