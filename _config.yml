@@ -24,7 +24,7 @@ seo:
   about: "WatEvoCast about EVO Development and Developers"
   person: "Larin Selyukh"
 
-# Used to generate the iTunes-compatible RSS feed
+# Used to generate the Apple Podcasts compatible RSS feed
 podcast:
   owner:
     name: EVO
